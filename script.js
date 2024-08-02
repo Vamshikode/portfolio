@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Cloud Expert, J2EE Expert"],
+        strings: ["MySql Expert, Java Expert"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
